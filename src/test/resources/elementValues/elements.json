@@ -1,0 +1,228 @@
+[
+
+  {
+    "key": "btnGirisYap",
+    "value": "//a[contains(text(),'Giriş Yap')]",
+    "type": "xpath"
+  },
+  {
+    "key": "GirisYap2",
+    "value": "login",
+    "type": "id"
+  },
+  {
+    "key": "eMailBtn",
+    "value": "email",
+    "type": "id"
+  },
+  {
+    "key": "passwordBtn",
+    "value": "password",
+    "type": "id"
+  },
+  {
+    "key": "GirisYapTikla",
+    "value": ".btn.btn-login-submit.full",
+    "type": "css"
+  },
+  {
+    "key": "loginKontrolText",
+    "value": "a[class='login user-name']",
+    "type": "css"
+  },
+  {
+    "key": "SepetValue",
+    "value": "span#cartItemCount > label",
+    "type": "css"
+  },
+  {
+    "key": "KategorilerModa",
+    "value": "moda",
+    "type": "id"
+  },
+  {
+    "key": "KategorilerModaKızCocukAyakkabı",
+    "value": "//li[@id='moda']//span[.='Moda']",
+    "type": "xpath"
+  },
+  {
+    "key": "KategorilerModaKızCocukAyakkabıMarka",
+    "value": "//div[@id='productResult']//section[@class='page-options']/div[@class='filter-box-container']/div[3]/div/div[@class='loader']/ol[@class='filters-container']/li[@class='box-container brand']/ol/li[@title='Kinetix']/label",
+    "type": "xpath"
+  },
+  {
+    "key": "KategorilerModaKızCocukAyakkabıTutarEnAz",
+    "value": "//li[@class='box-container fiyat']//input[@placeholder='En az']",
+    "type": "xpath"
+  },
+  {
+    "key": "KategorilerModaKızCocukAyakkabıTutarEnFazla",
+    "value": "//li[@class='box-container fiyat']//input[@placeholder='En çok']",
+    "type": "xpath"
+  },
+  {
+    "key": "KategorilerModaKızCocukAyakkabıÜrünGetir",
+    "value": "//li[@class='box-container fiyat']//button[@class='button small']",
+    "type": "xpath"
+  },
+  {
+    "key": "KategorilerModaKızCocukAyakkabıÜrünGetirSec",
+    "value": "//span[.='Lumberjack 100420702 Shell 9Pr Erkek Outdoor Ayakkabı']",
+    "type": "xpath"
+  },
+  {
+    "key": "randomCategory",
+    "value": "body > div.wrapper > div:nth-child(4) > div.navigation > div.navigationWrapper > div > ul > li  > a > span",
+    "type": "css"
+  },
+  {
+    "key": "subCategory",
+    "value": ".menu-item",
+    "type": "css"
+  },
+  {
+    "key": "marka",
+    "value": ".loader > ol > li:nth-child(1) > ol > li",
+    "type": "css"
+  },
+  {
+    "key": "rastgeleUrun",
+    "value": ".loader:nth-child(1) > div > ul > li",
+    "type": "css"
+  },
+  {
+    "key": "urunAdi",
+    "value": "product-name",
+    "type": "id"
+  },
+  {
+    "key": "urunTutar",
+    "value": "originalPrice",
+    "type": "id"
+  },
+  {
+    "key": "urunTutar2",
+    "value": "#offering-price > span:nth-child(1)",
+    "type": "css"
+  },
+  {
+    "key": "silButonu",
+    "value": "/html//form[@id='form-item-list']/ul[@class='cart-item-list']//div[@class='utils']/a[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "SepeteEkle",
+    "value": "addToCart",
+    "type": "id"
+  },
+  {
+    "key": "ÜrünAdetSayisiArttir",
+    "value": "button[title='Arttır']",
+    "type": "css"
+  },
+  {
+    "key": "sepetim",
+    "value": "shoppingCart",
+    "type": "id"
+  },
+  {
+    "key": "alisverisitamamla",
+    "value": "//div[@id='short-summary']//button/span[@class='text']",
+    "type": "xpath"
+  },
+  {
+    "key": "ÜrünFiyat",
+    "value": "/html/body/div[2]/main/div[3]/section[1]/div[4]/div/div[4]/div[1]/div[2]/div/div[1]/div[2]/div[2]/span",
+    "type": "xpath"
+  },
+  {
+    "key": "ÜrünDetayFiyat",
+    "value": "//*[@id=\"form-item-list\"]/ul/li[1]/div/div[3]",
+    "type": "xpath"
+  },
+  {
+    "key": "ürünEklemeAdedi",
+    "value": "quantity",
+    "type": "id"
+  },
+  {
+    "key": "ürünToplamDegeri",
+    "value": "//*[@id=\"short-summary\"]/div[1]/div[1]/div",
+    "type": "xpath"
+  },
+  {
+    "key": "kargoTutarı",
+    "value": "//*[@id=\"item-prices\"]/div/div[2]/div",
+    "type": "xpath"
+  },
+  {
+    "key": "krediKartıSec",
+    "value": "//div[@id='payment-container']//div[@class='accordions']/div[1]/a[@href='javascript://']/span[.='Kredi / Banka Kartı']",
+    "type": "xpath"
+  },
+  {
+    "key": "aySec",
+    "value": "//*[@id=\"payment-type-1\"]/div/form/fieldset/div[3]/div/div[1]/div/button/span[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "aytarihsec",
+    "value": "//*[@id=\"payment-type-1\"]/div/form/fieldset/div[3]/div/div[1]/div/div/ul/li[2]/a/span",
+    "type": "xpath"
+  },
+  {
+    "key": "kartNumarasi",
+    "value": "card-no",
+    "type": "id"
+  },
+  {
+    "key": "kartUzerindekiİsim",
+    "value": "holder-Name",
+    "type": "id"
+  },
+  {
+    "key": "güvenlikkodu",
+    "value": "ccv",
+    "type": "id"
+  },
+  {
+    "key": "HepsiBuradaLogo",
+    "value": "logo",
+    "type": "id"
+  },
+  {
+    "key": "AnasayfayaDön",
+    "value": "//html/body//a[@href='/']/span[.='hepsiburada.com']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabım",
+    "value": "/html//div[@id='root']/div/div[1]/div[@class='headerContainer']/div[1]//a[@class='hb-user-title']",
+    "type": "xpath"
+  },
+  {
+    "key": "hesabımtikla",
+    "value": ".hb-account-tooltip-content > ul:nth-of-type(1) > li:nth-of-type(2) > a",
+    "type": "css"
+  },
+  {
+    "key": "adreslerim",
+    "value": "div:nth-of-type(2) > .hb-list-item-content > li:nth-of-type(2) > .hb-list-title-text",
+    "type": "css"
+  },
+  {
+    "key": "adreslerimSil",
+    "value": "/html//div[@id='customer-addresses']/div[@class='customer-addresses']//ul[@class='group']//div[@class='action-buttons']/a[1]",
+    "type": "xpath"
+  },
+  {
+    "key": "adreslerimSilOK",
+    "value": "[data-bind='click\\: deleteAddress\\.bind\\(\\$data\\, \\'980d65e4-9424-4260-bd35-a55a5623e85c\\'\\, 1\\)']",
+    "type": "css"
+  }
+
+
+
+
+]
+

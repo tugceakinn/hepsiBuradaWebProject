@@ -1,0 +1,10 @@
+13-01-2020 17:26:41.630 [Gauge] [INFO] Watching directory: /Users/sahabt/Desktop/hepsiburadaWebProject/specs
+13-01-2020 17:26:41.631 [Gauge] [DEBUG] Found 2 files
+13-01-2020 17:26:41.633 [Gauge] [INFO] Initializing concepts cache with 3 concepts
+13-01-2020 17:26:41.633 [Gauge] [DEBUG] Adding concepts from /Users/sahabt/Desktop/hepsiburadaWebProject/specs/senaryo.cpt
+13-01-2020 17:26:41.633 [Gauge] [DEBUG] Adding concepts from /Users/sahabt/Desktop/hepsiburadaWebProject/specs/senaryo.cpt
+13-01-2020 17:26:41.633 [Gauge] [DEBUG] Adding concepts from /Users/sahabt/Desktop/hepsiburadaWebProject/specs/senaryo.cpt
+13-01-2020 17:26:41.635 [Gauge] [INFO] Initializing specs cache with 1 specs
+13-01-2020 17:26:41.635 [Gauge] [DEBUG] Adding specs from /Users/sahabt/Desktop/hepsiburadaWebProject/specs/senaryo.spec
+13-01-2020 17:26:41.635 [Gauge] [INFO] Initializing steps cache with 2 steps
+13-01-2020 17:26:41.635 [Gauge] [INFO] Gauge daemon initialized and listening on port: 54989

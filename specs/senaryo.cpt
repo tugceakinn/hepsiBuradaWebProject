@@ -1,0 +1,25 @@
+Created by sahabt on 2020-01-13
+
+This is a concept file with following syntax for each concept.
+# Kredi kartı bilgileri doldurulur
+* "kartNumarasi" li elemente "1234 5678 9565 7745" degerini yaz
+* "kartUzerindekiİsim" li elemente "test" degerini yaz
+* ay gir
+* "güvenlikkodu" li elemente "111" degerini yaz
+* "logo" li elemente tikla
+
+
+
+
+# ay gir
+* "aySec" li elemente tikla
+* "aytarihsec" li elemente tikla
+
+
+
+# Adreslerim silinir
+* "hesabım" li elemente tikla
+* "hesabımtikla" li elemente tikla
+* "adreslerim" li elemente tikla
+* "adreslerimSil" li elemente tikla
+* "adreslerimSilOK" li elemente tikla
