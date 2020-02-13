@@ -222,10 +222,15 @@
   },
   {
     "key": "adreslerimSilOKkk",
+    "value": "[data-bind='click\\: deleteAddress\\.bind\\(\\$data\\, \\'980d65e4']",
+    "type": "css"
+  }
+,
+  {
+    "key": "bilal",
     "value": "[data-bind='click\\: deleteAddress\\.bind\\(\\$data\\, \\'980d65e4-9424-4260-bd35-a55a5623e85c\\'\\, 1\\)']",
     "type": "css"
   }
-
 
 
 
